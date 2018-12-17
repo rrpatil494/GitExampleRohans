@@ -24,7 +24,7 @@ class GameScene: SKScene {
         Player2.setScale(0.7)
         Player2.position = CGPoint(x: 0, y: 100)
         Player2.zPosition = 1
-        addChild(Player2)
+        addChild(Player2)     
         
     }
     
