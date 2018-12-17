@@ -15,6 +15,8 @@
 		8E3C480A21C7C18E00A09171 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E3C480821C7C18E00A09171 /* Main.storyboard */; };
 		8E3C480C21C7C1A600A09171 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E3C480B21C7C1A600A09171 /* Assets.xcassets */; };
 		8E3C480F21C7C1A600A09171 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E3C480D21C7C1A600A09171 /* LaunchScreen.storyboard */; };
+		8E3C481721C7CFCC00A09171 /* JFDSpashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3C481621C7CFCC00A09171 /* JFDSpashView.swift */; };
+		8E3C481921C7CFE400A09171 /* JFDFirstController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3C481821C7CFE400A09171 /* JFDFirstController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		8E3C480B21C7C1A600A09171 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E3C480E21C7C1A600A09171 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8E3C481021C7C1A600A09171 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E3C481621C7CFCC00A09171 /* JFDSpashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JFDSpashView.swift; sourceTree = "<group>"; };
+		8E3C481821C7CFE400A09171 /* JFDFirstController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JFDFirstController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +73,8 @@
 				8E3C480B21C7C1A600A09171 /* Assets.xcassets */,
 				8E3C480D21C7C1A600A09171 /* LaunchScreen.storyboard */,
 				8E3C481021C7C1A600A09171 /* Info.plist */,
+				8E3C481621C7CFCC00A09171 /* JFDSpashView.swift */,
+				8E3C481821C7CFE400A09171 /* JFDFirstController.swift */,
 			);
 			path = GitExampleRohan;
 			sourceTree = "<group>";
@@ -149,6 +155,8 @@
 				8E3C480521C7C18E00A09171 /* GameScene.swift in Sources */,
 				8E3C480721C7C18E00A09171 /* GameViewController.swift in Sources */,
 				8E3C47FF21C7C18E00A09171 /* AppDelegate.swift in Sources */,
+				8E3C481921C7CFE400A09171 /* JFDFirstController.swift in Sources */,
+				8E3C481721C7CFCC00A09171 /* JFDSpashView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
