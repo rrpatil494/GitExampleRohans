@@ -19,7 +19,7 @@ class GameScene: SKScene {
         Player1.position = CGPoint(x: 0, y: -100)
         Player1.zPosition = 1
         addChild(Player1)
-        
+        //////////////////////
         let Player2 = SKSpriteNode(imageNamed: "drawdown-2")
         Player2.setScale(0.7)
         Player2.position = CGPoint(x: 0, y: 100)
